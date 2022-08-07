@@ -1,0 +1,30 @@
+body {
+    background-image: url(download.jfif);
+    background-size: cover;
+    margin: 20%;
+    color: #fff;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+button {
+    width: 200px;
+    padding: 10px 0 10px 0;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #016f32;
+    font-weight: bold;
+    border: 0;
+    border-radius: 2px;
+    background-color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
